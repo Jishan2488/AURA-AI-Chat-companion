@@ -1,0 +1,6 @@
+{
+  "name": "Aura - AI Concierge",
+  "description": "A sleek, vibecoded AI concierge designed for a capstone hackathon project. It provides freestyle guidance and 'AI for Good' ideation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
